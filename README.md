@@ -4,7 +4,7 @@
 
 git clone https://github.com/SalveDavid/Personal-portfolio.git
 
-cd django-portfolio-simple
+cd personal_portfolio
 
 pip install -r requirements.txt
 
