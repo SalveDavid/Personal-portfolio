@@ -50,4 +50,4 @@ The blog, even though it is a separate project, is part of the Portfolio Project
 <br/>
 
 ## Projects
-In this part you can see several personal projects, some of them with link to see how it works live in production.
+In this part you can see several personal projects, some of them with their own links to see how it works live in production.
