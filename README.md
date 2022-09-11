@@ -2,7 +2,7 @@
 
 Personal Portfolio that shows the projects that I've been working on.
 
-<br/>
+<br />
 
 ## Content
 * [Usage Information](#usage-information)
@@ -45,3 +45,9 @@ python manage.py runserver
 <br/>
 
 ## Blog
+The blog, even though it is a separate project, is part of the Portfolio Project and it has different articles about technology and Python.
+
+<br/>
+
+## Projects
+In this part you can see several personal projects, some of them with link to see how it works live in production.
