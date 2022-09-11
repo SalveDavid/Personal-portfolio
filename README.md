@@ -9,6 +9,7 @@ Personal Portfolio that shows the projects that I've been working on.
 * [Blog](#blog)
 * [Projects](#projects)
 
+
 ## Usage Information
 
 <details>
