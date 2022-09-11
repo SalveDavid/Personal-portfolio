@@ -1,7 +1,7 @@
 # Portfolio Project
 
 Personal Portfolio that shows the projects that I've been working on.
-
+<br/>
 
 ## Content
 * [Usage Information](#usage-information)
