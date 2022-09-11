@@ -1,13 +1,44 @@
-# Personal-portfolio
+# Portfolio Project
 
-# Installation
+Personal Portfolio that shows the projects that I've been working on.
+<br />
 
-git clone https://github.com/SalveDavid/Personal-portfolio.git
+## Content
+* [Usage Information](#usage-information)
+* [Blog](#blog)
+* [Projects](#projects)
 
-cd personal_portfolio
+## Usage Information
 
-pip install -r requirements.txt
+<details>
+<summary>Steps</summary>
 
+
+* Clone the repository.
+* Create project virtual environment inside **personal_portfolio** directory:
+
+```
+python3 -m venv env_perport
+```
+
+* Activate your virtual enviroment and install required python modules:
+```
+source env_perport/bin/activate
+python -m pip install -r requirements.txt
+```
+
+* Go to Django project **personal_portfolio** directory and execute:
+```
+python manage.py makemigrations
+python manage.py migrate
+```
+
+* Startup the Django server:
+```
 python manage.py runserver
+```
+</details>
 
-now you can visit http://localhost:8000
+<br/><br/>
+
+## Blog
