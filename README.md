@@ -39,6 +39,6 @@ python manage.py runserver
 ```
 </details>
 
-<br/><br/>
+<br/>
 
 ## Blog
